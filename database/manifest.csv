@@ -1,1 +1,2 @@
-
+id,title,category,concepts,curriculum,level,asset_type,market,period,teaching_message,observation_question,cautions,source_name,source_url,copyright_status,priority,image_path
+VAL-0001,"S&P500の予想PERとその後のリターン","valuation","PER | S&P500 | expected_return | long_term | correlation","6-9 | 6-16 | 20-16","beginner | intermediate","historical_chart","US","1988年以降","現在のPERとその後1年間のリターンの関係は弱い一方、10年間の年率リターンとは負の関係が見られる。","左の1年間と右の10年間では、点の並び方にどんな違いがありますか？","相関は因果関係を意味しない。PERだけで将来リターンが決まるわけではない。","JPモルガン","","third_party","high","assets/VAL-0001.png"
